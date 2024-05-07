@@ -14,7 +14,7 @@ no jumper, voltage-auto-detection
 |R130|0 ohm|
 
 # Bill of material
-
+[bom csv file](https://github.com/matt1187/3.3V-adventure/blob/main/compaq_hudson/hudson3.3V.csv)
 
 |Footprint|Value|Size|Supplier|Order-number|
 |--------------|-----|-----|-------|-----------------|
