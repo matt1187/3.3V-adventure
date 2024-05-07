@@ -22,16 +22,13 @@ no jumper, voltage-auto-detection
 |C347| 100 nF |0805|Mouser||
 |C569| 100 µF|EIA-7343|Mouser||
 |C573| 100 µF|EIA-7343|Mouser||
-
 |CR522| TL431 ohm|SOT-89-3|Mouser||
-
 |R278| 200 |0805|Mouser||
 |R279| 10 kohm|0805|Mouser||
 |R281| 26.1 kohm|0805|Mouser||
 |R282| 4.7 kohm|0805|Mouser||
 |R283| 4.7 kohm|0805|Mouser||
 |R288| 10 ohm|0805|Mouser||
-
 |Q504|2SK1308 or IRF530|TO-220|Mouser||
 |Q505|MMBT3904 or BC817|SOT-23|Mouser||
 |for Q504|TO220 heatsink|TO-220|Mouser||
