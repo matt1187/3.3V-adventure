@@ -1,6 +1,6 @@
 # MSI MS-4138 Ver 1
 
-*****photo*********
+![pictures](https://github.com/matt1187/3.3V-adventure/blob/main/MS4138/MS4138.png)
 
 # Jumper setting
 JC5 ->  3 jumpers near CPU -> 3.3V
