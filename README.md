@@ -1,4 +1,4 @@
-# Project  3.3V adventure
+# Project  3.3V adventure 
 
 This is collection of modification, improvement of  3.3V option on 486 motherboard.
 Some 486 motherboard has 3.3V option, but 3.3V regulator isn't soldered , because board is a cost-cutting version.
@@ -6,7 +6,7 @@ Some 486 motherboard has 3.3V option, but 3.3V regulator isn't soldered , becaus
 
 
 
-# successful modification
+# Successful modification
 - Abit AN4R 
 - [Compaq Deskpro XE 486-class](https://github.com/matt1187/3.3V-adventure/blob/main/compaq_XE_486/readme.md)
 - [Compaq Prolinea 4-series(only Hudson board)](https://github.com/matt1187/3.3V-adventure/blob/main/compaq_hudson/readme.md)
@@ -14,8 +14,8 @@ Some 486 motherboard has 3.3V option, but 3.3V regulator isn't soldered , becaus
 
 
   
-# disclaim
-Risk of modification, it is not my fault, if your board or CPU dies.
+# Disclaim
+It is your risk of modification, it is not my fault, if your board or CPU dies.
 
 
 # License
