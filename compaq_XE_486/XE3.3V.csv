@@ -1,4 +1,4 @@
-"ID";"Bezeichner";"Gehäuse";"Stückzahl";"Bezeichnung";"Anbieter und Referenz";
+"ID";"Footprint";"Case";"Count";"Value";"Supplier";"Order-number";
 1;"R605,R578";"R_4020_10251Metric";2;"0";;;
 2;"R288";"R_0805_2012Metric";1;"10";;;
 3;"R283,R282";"R_0805_2012Metric";2;"4.7k";;;
