@@ -1,14 +1,15 @@
 # Compaq Despro XE (486) (Compaq 194362-001) 
 Nickname "Compaq Diamond" 
 
-![pictures](https://github.com/matt1187/3.3V-adventure/blob/main/compaq_hudson/XE_486.jpg)
+![pictures](https://github.com/matt1187/3.3V-adventure/blob/main/compaq_XE_486/XE_486.jpg)
 
 # Jumper setting
 no jumper, voltage-auto-detection
 
 # part should be removed
+
 |Footprint|Value|
-|------|----|-----|
+|------|-----|
 |R578|0 ohm|
 |R605|0 ohm|
 
