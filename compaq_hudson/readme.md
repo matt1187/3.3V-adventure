@@ -1,14 +1,15 @@
 # Compaq Prolinea 4/66 (Compaq 164560-001) 
 Nickname "Compaq Hudson" 
 
-*****photo*********
+![pictures](https://github.com/matt1187/3.3V-adventure/blob/main/compaq_hudson/hudson.jpg)
+
 
 # Jumper setting
 no jumper, voltage-auto-detection
 
 # part should be removed
 |Footprint|Value|
-|------|----|-----|
+|------|----|
 |R129|0 ohm|
 |R130|0 ohm|
 
@@ -22,9 +23,7 @@ no jumper, voltage-auto-detection
 |C145| 10µF |EIA-3528|Mouser||
 |C159| 100 µF|EIA-7343|Mouser||
 |C165| 100 µF|EIA-7343|Mouser||
-
 |CR9| TL431 ohm|SOT-89-3|Mouser||
-
 |R125| 4.7 kohm|0603|Mouser||
 |R126| 10 kohm|0603|Mouser||
 |R127| 26.1 ohm|0805|Mouser||
@@ -33,7 +32,6 @@ no jumper, voltage-auto-detection
 |R136| no |0603|nobody||
 |R155| 4.7k kohm|0603|Mouser||
 |R155| 10 ohm|0603|Mouser||
-
 |Q2|2SK1308 or IRF530|TO-220|Mouser||
 |Q3|MMBT3904 or BC817|SOT-23|Mouser||
 |for Q2|TO220 heatsink|TO-220|Mouser||
