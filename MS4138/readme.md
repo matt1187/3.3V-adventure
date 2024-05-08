@@ -4,6 +4,7 @@
 
 # Jumper setting
 JC5 ->  3 jumpers near CPU -> 3.3V
+
 JC5 ->  3 jumpers near VRM ->  5V
 
 # part should be removed
