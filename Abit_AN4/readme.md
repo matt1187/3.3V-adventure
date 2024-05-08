@@ -34,7 +34,7 @@ JP12 2-3 = 5V
 
 # Note
 
-JP9 wire on 2-3 should moved to  1-2 
+JP9 wire on 2-3 should moved to  1-2. 
 JP40 should be wired on 2-3.
 TC12 value 220-470µF, it is not critical value.
 
