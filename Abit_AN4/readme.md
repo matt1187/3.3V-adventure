@@ -1,4 +1,4 @@
-# MSI MS-4138 Ver 1
+# Abit AN4 Rev 1.0
 
 ![pictures](https://github.com/matt1187/3.3V-adventure/blob/main/Abit_AN4/Abit_AN4_REV1_0_MOD.jpg)
 
