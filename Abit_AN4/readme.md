@@ -19,8 +19,8 @@ JP12 2-3 = 5V
 
 |Footprint|Value|Size|Supplier|Order-number|
 |--------------|-----|-----|-------|-----------------|
-|R41| 220 ohm|THT 1/4 w |Mouser||
-|R42| 220 ohm|THT 1/4 w |Mouser||
+|R41| 220 ohm|THT 0207 1/4 w |Mouser||
+|R42| 220 ohm|THT 0207 1/4 w |Mouser||
 |MC1,2,3,5,6| 100nF 25V |THT 7.5 |Mouser||
 |MC8,9,10,11,12,13,14,15| 100nf 25V |THT 7,5 |Mouser||
 |TC12| 220-470µF 10V |RM 5,08 |Mouser||
