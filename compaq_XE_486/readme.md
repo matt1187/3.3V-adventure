@@ -23,7 +23,7 @@ no jumper, voltage-auto-detection
 |C347| 100 nF |0805|Mouser||
 |C569| 100 µF|EIA-7343|Mouser||
 |C573| 100 µF|EIA-7343|Mouser||
-|CR522| TL431 ohm|SOT-89-3|Mouser||
+|CR522| TL431 |SOT-89-3|Mouser||
 |R278| 200 |0805|Mouser||
 |R279| 10 kohm|0805|Mouser||
 |R281| 26.1 kohm|0805|Mouser||
