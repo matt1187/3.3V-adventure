@@ -4,7 +4,7 @@ Nickname "Compaq Diamond"
 ![pictures](https://github.com/matt1187/3.3V-adventure/blob/main/compaq_XE_486/XE_486.jpg)
 
 # Jumper setting
-no jumper, voltage-auto-detection
+no jumper, auto-detection
 
 # part should be removed
 
