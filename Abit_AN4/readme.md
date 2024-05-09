@@ -23,7 +23,7 @@ JP12 2-3 = 5V
 |R42| 220 ohm|THT 0207 1/4 w |Mouser||
 |MC1,2,3,5,6| 100nF 25V |RM 7.5 |Mouser||
 |MC8,9,10,11,12,13,14,15| 100nf 25V |RM 7,5 |Mouser||
-|TC12| 220-470µF 10V |RM 5,08 |Mouser||
+|TC12| 150µF 10V |RM 5,08 |Mouser||
 |TC15| 10µF 10V tantalum |RM 2.54 |Mouser||
 |Q4|LT1085-3.3|TO220|Mouser||
 |for Q4|TO220 heatsink|TO220|Mouser||
@@ -36,7 +36,7 @@ JP12 2-3 = 5V
 
 JP9 wire on 2-3 should moved to  1-2. 
 JP40 should be wired on 2-3.
-TC12 value 220-470µF, it is not critical value.
+
 
 
 # Disclaim
