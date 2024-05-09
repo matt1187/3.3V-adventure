@@ -1,7 +1,6 @@
 # Project  3.3V adventure 
 
-This is collection of modification, improvement of  3.3V option on 486 motherboard.
-Some 486 motherboard has 3.3V option, but 3.3V regulator isn't soldered , because board is a cost-cutting version.
+This is a collection of modifications ment to be a improvement of the 3.3V option on 486 motherboards. Some 486 motherboards have 3.3V option, but the 3.3V regulator isn't soldered onto it, because the board is a low-cost version.
 
 
 
