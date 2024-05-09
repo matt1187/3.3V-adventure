@@ -10,9 +10,9 @@ Some 486 motherboard has 3.3V option, but 3.3V regulator isn't soldered , becaus
 - [Abit AN4_REV 1.0](https://github.com/matt1187/3.3V-adventure/blob/main/Abit_AN4/readme.md)
 - [Abit AN4 REV 2:1.1](https://github.com/matt1187/3.3V-adventure/blob/main/Abit_AN4/readme1.md)
 - [Compaq Deskpro XE 486-class](https://github.com/matt1187/3.3V-adventure/blob/main/compaq_XE_486/readme.md)
-- [Compaq Prolinea 4-series(only Hudson board)](https://github.com/matt1187/3.3V-adventure/blob/main/compaq_hudson/readme.md)
+- [Compaq Prolinea 4-series (only Hudson board)](https://github.com/matt1187/3.3V-adventure/blob/main/compaq_hudson/readme.md)
 - [MSI MS-4138](https://github.com/matt1187/3.3V-adventure/blob/main/MS4138/readme.md)
-- [Soyo 25M2 & 25J2 ](https://github.com/matt1187/3.3V-adventure/blob/main/Soyo_25x2/readme.md)
+- [Soyo SY-025xx (25M2, 25N etc) ](https://github.com/matt1187/3.3V-adventure/blob/main/Soyo_SY-25x2/readme.md)
 
   
 # Disclaim
