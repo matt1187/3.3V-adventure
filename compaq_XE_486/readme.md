@@ -32,7 +32,7 @@ no jumper, auto-detection
 |R288| 10 ohm|0805|Mouser||
 |Q504|2SK1308 or IRF530|TO-220|Mouser||
 |Q505|MMBT3904 or BC817|SOT-23|Mouser||
-|for Q504|TO220 heatsink|TO-220|Mouser||
+|for Q504|TO-220 heatsink|TO-220|Mouser||
 
 
 
