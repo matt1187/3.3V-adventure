@@ -1,6 +1,6 @@
 # Soyo SY-025xx (025M2, 025N, etc )
 
-![pictures](https://github.com/matt1187/3.3V-adventure/blob/main/Abit_AN4/sy-025m2.jpg)
+![pictures](https://github.com/matt1187/3.3V-adventure/blob/main/Soyo_SY-025x2/sy-025m2.jpg)
 
 
 # Jumper setting
@@ -20,7 +20,6 @@ JP12 3-5 , 4-6 = 5V
 
 |Footprint|Value|Size|Supplier|Order-number|
 |--------------|-----|-----|-------|-----------------|
-
 |BC32| 47 µF 10V | EIA-6032 |Mouser||
 |BC33| 47 µF 10V | EIA-6032 |Mouser||
 |TC25| 10µF 10V tantalum |RM 2.54 |Mouser||
@@ -29,11 +28,7 @@ JP12 3-5 , 4-6 = 5V
 |JP24|2x3 pinheader|RM 2.54|Mouser||
 
 
-# Note
 
-JP9 wire on 2-3 should moved to  1-2 
-JP40 should be wired on 2-3.
-TC12 value 220-470µF, it is not critical value.
 
 
 # Disclaim
