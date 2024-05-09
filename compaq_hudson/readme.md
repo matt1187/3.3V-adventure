@@ -5,7 +5,7 @@ Nickname "Compaq Hudson"
 
 
 # Jumper setting
-no jumper, voltage-auto-detection
+no jumper, auto-detection
 
 # part should be removed
 |Footprint|Value|
