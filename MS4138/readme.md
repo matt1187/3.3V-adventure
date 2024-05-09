@@ -20,6 +20,7 @@ JC5 ->  3 jumpers near VRM ->  5V
 |--------------|-----|-----|-------|-----------------|
 |R64| 390 ohm|0805|Mouser||
 |R65| 634 ohm|0805|Mouser||
+|TC18| 10F 10V tantalum | RM 2.54|Mouser||
 |D5|1N5400 or BY255 |DO-201|Mouser||
 |U30|PQ30RV21 or PQ30RV2||various||
 |JC5|2x6 pinheader|RM 2.54|Mouser||
