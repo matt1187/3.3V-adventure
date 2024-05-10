@@ -6,7 +6,7 @@ Nickname "Compaq Diamond"
 # Jumper setting
 no jumper, auto-detection
 
-# part should be removed
+# should be removed
 
 |Footprint|Value|
 |------|-----|
@@ -37,8 +37,8 @@ no jumper, auto-detection
 
 
 
-# disclaim
-Risk of modification, it is not my fault, if your board or CPU dies.
+# Disclaim
+It is your risk of modification, it is not my fault, if your board or CPU dies.
 
 
 # License
