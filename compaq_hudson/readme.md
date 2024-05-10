@@ -7,7 +7,7 @@ Nickname "Compaq Hudson"
 # Jumper setting
 no jumper, auto-detection
 
-# part should be removed
+# should be removed
 |Footprint|Value|
 |------|----|
 |R129|0 ohm|
@@ -39,8 +39,8 @@ no jumper, auto-detection
 
 
 
-# disclaim
-Risk of modification, it is not my fault, if your board or CPU dies.
+# Disclaim
+It is your risk of modification, it is not my fault, if your board or CPU dies.
 
 
 # License
