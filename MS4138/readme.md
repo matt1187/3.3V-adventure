@@ -7,7 +7,7 @@ JC5 ->  3 jumpers near CPU -> 3.3V
 
 JC5 ->  3 jumpers near VRM ->  5V
 
-# part should be removed
+# should be removed
 |Footprint|Count|Value|
 |------|----|-----|
 |JC5|3|wire|
@@ -29,7 +29,7 @@ JC5 ->  3 jumpers near VRM ->  5V
 D5 Diode cathode should have a direction to circle of footprint.
 
 # Disclaim
-Risk of modification is on your side. It is not my fault, if your board or CPU dies.
+It is your risk of modification, it is not my fault, if your board or CPU dies.
 
 
 # License
