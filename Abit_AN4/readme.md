@@ -7,7 +7,7 @@
 JP12 1-2 = 3.3V  
 JP12 2-3 = 5V
 
-# part should be removed
+# should be removed
 |Footprint|Count|Value|
 |------|----|-----|
 |JP9|1|wire|
@@ -40,7 +40,7 @@ JP40 should be wired on 2-3.
 
 
 # Disclaim
-Risk of modification is on your side.  It is not my fault, if your board or CPU dies.
+It is your risk of modification, it is not my fault, if your board or CPU dies.
 
 
 # License
