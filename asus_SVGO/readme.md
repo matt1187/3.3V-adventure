@@ -29,7 +29,7 @@ JP34 2-3 = 3.6V
 |C52| 1µF 10V tantalum |RM 2.54 |Mouser||
 |C53| 10µF 10V tantalum |RM 2.54 |Mouser||
 |C54| 1µF 10V tantalum |RM 2.54 |Mouser||
-|U19|NDB604BL|TO220|Mouser||
+|U19|NDB604BL or IRF530|TO220|Mouser||
 |U20|LT1085-ADJ|TO220|Mouser||
 |U21|7407|SOIC14|Mouser||
 |for U20 and 19|bolt and nuts|M3 |various||
