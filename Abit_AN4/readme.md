@@ -25,8 +25,8 @@ JP12 2-3 = 5V
 |MC8,9,10,11,12,13,14,15| 100nf 25V |RM 7,5 |Mouser||
 |TC12| 150µF 10V |RM 5,08 |Mouser||
 |TC15| 10µF 10V tantalum |RM 2.54 |Mouser||
-|Q4|LT1085-3.3|TO220|Mouser||
-|for Q4|TO220 heatsink|TO220|Mouser||
+|Q4|LT1085-3.3|TO-220|Mouser||
+|for Q4|TO-220 heatsink|TO-220|Mouser||
 |JP9|short 1-2|10mm  wire d = 0.5 |various||
 |JP12|1x3 pinheader|RM 2.54|Mouser||
 |JP40|short 2-3|10mm  wire d = 0.5 |various||
