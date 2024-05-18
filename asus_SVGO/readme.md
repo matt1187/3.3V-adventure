@@ -1,18 +1,21 @@
 # ASUS VL/I 486SVGO Rev 1.5
 
-![pictures](https://github.com/matt1187/3.3V-adventure/blob/main/Asus_SVGO/SVGO_rev1_5.jpg)
+![pictures](https://github.com/matt1187/3.3V-adventure/blob/main/asus_SVGO/SVGO_rev1_5.jpg)
 
 
 # Jumper setting
-autodetection of CPU voltage  (5 or low voltage)
+autodetection of CPU voltage  (5v3or low voltage)
+
 JP23 1-2 forced to low voltage.
+
 JP34 1-2 = 3.45V  
+
 JP34 2-3 = 3.6V
 
 # part should be removed
 |Footprint|Count|Value|
 |------|----|-----|
-|wire on U28|1|wire|
+|wire on U20|1|wire|
 |wire on U19|1|wire|
 
 
