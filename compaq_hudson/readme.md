@@ -34,7 +34,7 @@ no jumper, auto-detection
 |R155| 10 ohm|0603|Mouser||
 |Q2|2SK1308 or IRF530|TO-220|Mouser||
 |Q3|MMBT3904 or BC817|SOT-23|Mouser||
-|for Q2|TO220 heatsink|TO-220|Mouser||
+|for Q2|TO-220 heatsink|TO-220|Mouser||
 
 
 
