@@ -4,7 +4,7 @@
 
 
 # Jumper setting
-autodetection of CPU voltage  (5v3or low voltage)
+autodetection of CPU voltage  (5v or low voltage)
 
 JP23 1-2 forced to low voltage.
 
