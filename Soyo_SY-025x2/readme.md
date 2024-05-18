@@ -23,8 +23,8 @@ JP12 3-5 , 4-6 = 5V
 |BC32| 47 µF 10V | EIA-6032 |Mouser||
 |BC33| 47 µF 10V | EIA-6032 |Mouser||
 |TC25| 10µF 10V tantalum |RM 2.54 |Mouser||
-|U31|LT1085-ADJ|TO220|Mouser||
-|for U31|TO220 heatsink|TO220|Mouser||
+|U31|LT1085-ADJ|TO-220|Mouser||
+|for U31|TO-220 heatsink|TO-220|Mouser||
 |JP24|2x3 pinheader|RM 2.54|Mouser||
 
 
