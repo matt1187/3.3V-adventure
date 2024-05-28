@@ -32,7 +32,7 @@ JP12 2-3 = 5V
 |JP40|short 2-3|10mm  wire d = 0.5 |various||
 
 
-# Note
+# Notes
 
 JP9 wire on 2-3 should moved to  1-2. 
 JP40 should be wired on 2-3.
