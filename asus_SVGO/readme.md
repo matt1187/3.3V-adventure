@@ -37,7 +37,7 @@ JP34 2-3 = 3.6V
 |JP34|1x3 pinheader|RM 2.54|Mouser||
 
 
-# Note
+# Notes
 bill of material is for VL/I 486SVGO Rev 1.5 .
 Some  older Revision has other footprint as like DIP-14 for U21
 
