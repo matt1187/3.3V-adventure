@@ -25,7 +25,7 @@ JC5 ->  3 jumpers near VRM ->  5V
 |U30|PQ30RV21 or PQ30RV2||various||
 |JC5|2x6 pinheader|RM 2.54|Mouser||
 
-# Note
+# Notes
 D5 Diode cathode should have a direction to circle of footprint.
 
 # Disclaim
