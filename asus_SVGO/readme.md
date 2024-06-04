@@ -17,7 +17,7 @@ JP34 2-3 = 3.6V
 |------|----|-----|
 |wire on U20|1|wire|
 |wire on U19|1|wire|
-
+And you can peel off a white sticker near "VL/I-486SVGO". -> You got  "VL/I-486SVGOGX4"
 
 # Bill of material
 
@@ -40,6 +40,7 @@ JP34 2-3 = 3.6V
 # Notes
 bill of material is for VL/I 486SVGO Rev 1.5 .
 Some  older Revision has other footprint as like DIP-14 for U21
+
 
 
 
