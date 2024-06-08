@@ -17,7 +17,7 @@ JP34 2-3 = 3.6V
 |------|----|-----|
 |wire on U20|1|wire|
 |wire on U19|1|wire|
-And you can peel off a white sticker near "VL/I-486SVGO". -> You got  "VL/I-486SVGOGX4"
+And you can peel off a white sticker near "VL/I-486SVGO". -> You got  "VL/I-486SVGOX4"
 
 # Bill of material
 
