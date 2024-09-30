@@ -26,7 +26,7 @@
 |R118| 33 ohm|THT 0207 1/4w|Mouser||
 |R40| 120 ohm|THT 0207 1/4w|Mouser||
 |Q1|LT1587CT or LT1085CT|TO220|Mouser||
-|for Q1|heatsink and silicone insulation pad|TO220|||
+|for Q1|heatsink and silicone thermal pad|TO220|||
 |for Q1|Screw and nuts|M3x8|||
 |JP64|2x3 pinheader|RM 2.54|Mouser||
 |JP73|1x3 pinheader|RM 2.54|Mouser||
@@ -34,7 +34,7 @@
 |CT23|22µF 10+V Tantal|RM 2.54|Mouser||
 
 # note
-- Important: Put ssilicone insulation pad between heatsink and motherboard.
+- Important: Put ssilicone thermal pad between heatsink and motherboard.
 
 
 
