@@ -3,12 +3,12 @@
 ![pictures](https://github.com/matt1187/3.3V-adventure/blob/main/HOT419/HOT419.jpg)
 
 # Jumper setting
--JP64 ->  2-4 & 1-3 -> 5V
--JP64 ->  4-6 & 3-5 ->  lowvoltage
+- JP64 ->  2-4 & 1-3 -> 5V
+- JP64 ->  4-6 & 3-5 ->  lowvoltage
 
--JP73 -> nc -> 3.45V
--JP73 -> 1-2 -> 3.3V
--JP73 -> 2-3 -> 4V
+- JP73 -> nc -> 3.45V
+- JP73 -> 1-2 -> 3.3V
+- JP73 -> 2-3 -> 4V
 
 # part should be removed
 |Footprint|Count|Value|
