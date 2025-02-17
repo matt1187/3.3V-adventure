@@ -9,7 +9,7 @@ This is a collection of modifications ment to be a improvement of the 3.3V optio
 - [Abit AN4_REV 1.0](https://github.com/matt1187/3.3V-adventure/blob/main/Abit_AN4/readme.md)
 - [Abit AN4 REV 2:1.1](https://github.com/matt1187/3.3V-adventure/blob/main/Abit_AN4/readme_rev2_1_1.md)
 - [Asus VL/I 486SVGO REV 1.5](https://github.com/matt1187/3.3V-adventure/blob/main/asus_SVGO/readme.md)
-- [Compaq Deskpro XE 486-class](https://github.com/matt1187/3.3V-adventure/blob/main/compaq_XE_486/readme.md)
+- [Compaq Deskpro XE 486-class, 194362-001](https://github.com/matt1187/3.3V-adventure/blob/main/compaq_XE_486/readme.md)
 - [Compaq Prolinea 4-series (only Hudson board, 164560-001)](https://github.com/matt1187/3.3V-adventure/blob/main/compaq_hudson/readme.md)
 - [Shuttle HOT-419](https://github.com/matt1187/3.3V-adventure/blob/main/HOT419/readme.md)
 - [MSI MS-4138](https://github.com/matt1187/3.3V-adventure/blob/main/MS4138/readme.md)
