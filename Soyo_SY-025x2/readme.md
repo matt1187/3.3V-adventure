@@ -4,9 +4,9 @@
 
 
 # Jumper setting
-JP12 1-3 , 2-4 = 5V  
+JP24 1-3 , 2-4 = 5V  
 
-JP12 3-5 , 4-6 = 3,3V
+JP24 3-5 , 4-6 = 3,3V
 
 # part should be removed
 |Footprint|Count|Value|
