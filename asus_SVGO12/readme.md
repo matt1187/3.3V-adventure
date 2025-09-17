@@ -1,6 +1,6 @@
 # ASUS VL/I 486SVGO Rev 1.5
 
-![pictures](https://github.com/matt1187/3.3V-adventure/blob/main/Asus_SVGO/SVGO_rev1_5.jpg)
+![pictures](https://github.com/matt1187/3.3V-adventure/blob/main/Asus_SVGO12/SVGO_rev1_2.jpg)
 
 
 # Jumper setting
@@ -52,4 +52,5 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
