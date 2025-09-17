@@ -41,6 +41,7 @@ And you can peel off a white sticker near "VL/I-486SVGO". -> You got  "VL/I-486S
 bill of material is for VL/I 486SVGO Rev 1.5 .
 Some  older Revision has other footprint as like DIP-14 for U21
 
+<img width="438" height="660" alt="image" src="https://github.com/user-attachments/assets/af6e6742-1853-42c9-8b0f-95d2a273839a" />
 
 
 
@@ -57,3 +58,4 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+
