@@ -5,8 +5,11 @@
 
 # Jumper setting
 autodetection of CPU voltage  (5 or low voltage)
+
 JP23 1-2 forced to low voltage. <- need to verifity
+
 JP34 1-2 = 3.45V  <- need to verifity (proably fix 3.3V)
+
 JP34 2-3 = 3.6V <- need to verifity  (proably fix 3.3V )
 
 # part should be removed
@@ -53,4 +56,5 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+
 
