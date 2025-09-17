@@ -7,9 +7,8 @@
 autodetection of CPU voltage  (5v or low voltage)
 
 JP23 1-2 forced to low voltage.
-
+JP nc = 3.3V
 JP34 1-2 = 3.45V  
-
 JP34 2-3 = 3.6V
 
 # part should be removed
@@ -58,4 +57,5 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+
 
