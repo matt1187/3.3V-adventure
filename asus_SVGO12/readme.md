@@ -4,9 +4,10 @@
 
 
 # Jumper setting
-autodetection of CPU voltage  (5 or low voltage)
+autodetection of CPU voltage  (5V or 3.3V) (JP22 4-5 must be set,otherwise 5V output)
+There is no possibly of forcing to 3.3V -> don't place Cyrix 486DX2 3.3V CPU (Cyrix 5x86 has voltdet-pin and works on this board)
 
-JP23 1-2 forced to low voltage. <- need to verifity
+
 
 
 # part should be removed
@@ -53,6 +54,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+
 
 
 
