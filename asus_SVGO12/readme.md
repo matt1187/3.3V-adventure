@@ -1,4 +1,4 @@
-# ASUS VL/I 486SVGO Rev 1.5
+# ASUS VL/I 486SVGO Rev 1.2
 
 ![pictures](https://github.com/matt1187/3.3V-adventure/blob/main/asus_SVGO12/SVGO_rev1_2.jpg)
 
@@ -54,6 +54,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+
 
 
 
