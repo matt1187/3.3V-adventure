@@ -1,18 +1,18 @@
 # ASUS VL/I 486SVGO Rev 1.5
 
-![pictures](https://github.com/matt1187/3.3V-adventure/blob/main/Asus_SVGO12/SVGO_rev1_2.jpg)
+![pictures](https://github.com/matt1187/3.3V-adventure/blob/main/asus_SVGO12/SVGO_rev1_2.jpg)
 
 
 # Jumper setting
 autodetection of CPU voltage  (5 or low voltage)
-JP23 1-2 forced to low voltage.
-JP34 1-2 = 3.45V  
-JP34 2-3 = 3.6V
+JP23 1-2 forced to low voltage. <- need to verifity
+JP34 1-2 = 3.45V  <- need to verifity (proably fix 3.3V)
+JP34 2-3 = 3.6V <- need to verifity  (proably fix 3.3V )
 
 # part should be removed
 |Footprint|Count|Value|
 |------|----|-----|
-|wire on U28|1|wire|
+|wire on U20|1|wire|
 |wire on U19|1|wire|
 
 
@@ -30,8 +30,7 @@ JP34 2-3 = 3.6V
 |U20|LT1085-ADJ|TO220|Mouser||
 |U21|7407|SOIC14|Mouser||
 |for U20 and 19|bolt and nuts|M3 |various||
-|JP33|10mm  wire d = 0.5 |various||
-|JP34|1x3 pinheader|RM 2.54|Mouser||
+
 
 
 # Note
@@ -54,3 +53,4 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+
