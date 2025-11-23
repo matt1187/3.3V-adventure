@@ -21,17 +21,17 @@
 
 |Footprint|Value|Size|Supplier|Order-number|
 |--------------|-----|-----|-------|-----------------|
-|R33| 260 ohm|THT 0207 1/4w|Mouser||
-|R117| 18 ohm|THT 0207 1/4w|Mouser||
-|R118| 33 ohm|THT 0207 1/4w|Mouser||
-|R40| 120 ohm|THT 0207 1/4w|Mouser||
-|Q1|LT1587CT or LT1085CT|TO220|Mouser||
+|R33| 260 ohm|THT 0207 1/4w|Digikey||
+|R117| 18 ohm|THT 0207 1/4w|Digikey||
+|R118| 33 ohm|THT 0207 1/4w|Digikey||
+|R40| 120 ohm|THT 0207 1/4w|Digikey||
+|Q1|LT1587CT or LT1085CT|TO220|Digikey||
 |for Q1|heatsink and silicone thermal pad|TO220|||
 |for Q1|Screw and nuts|M3x8|||
-|JP64|2x3 pinheader|RM 2.54|Mouser||
-|JP73|1x3 pinheader|RM 2.54|Mouser||
-|CT22|22µF 10+V Tantal|RM 2.54|Mouser||
-|CT23|22µF 10+V Tantal|RM 2.54|Mouser||
+|JP64|2x3 pinheader|RM 2.54|Digikey||
+|JP73|1x3 pinheader|RM 2.54|Digikey||
+|CT22|22µF 10+V Tantal|RM 2.54|Digikey||
+|CT23|22µF 10+V Tantal|RM 2.54|Digikey||
 
 # note
 - Important: Put ssilicone thermal pad between heatsink and motherboard.
@@ -51,3 +51,4 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+
