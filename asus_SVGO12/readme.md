@@ -26,11 +26,11 @@ Jumper Setting for AMD 5x86 CPU, works also for PODP5V
 
 |Footprint|Value|Size|Supplier|Order-number|
 |--------------|-----|-----|-------|-----------------|
-|C35| 330µF 10 or 16V |RM 3.5 |Mouser||
-|C51| 10µF 10V tantalum |RM 2.54 |Mouser||
-|C52| 1µF 10V tantalum |RM 2.54 |Mouser||
-|C53| 10µF 10V tantalum |RM 2.54 |Mouser||
-|C54| 1µF 10V tantalum |RM 2.54 |Mouser||
+|C35| 330µF 10 or 16V |RM 3.5 |Digikey||
+|C51| 10µF 10V tantalum |RM 2.54 |Digikey||
+|C52| 1µF 10V tantalum |RM 2.54 |Digikey||
+|C53| 10µF 10V tantalum |RM 2.54 |Digikey||
+|C54| 1µF 10V tantalum |RM 2.54 |Digikey||
 |U19|NDB604BL|TO220|Mouser||
 |U20|LT1085-ADJ|TO220|Mouser||
 |U21|7407|SOIC14|Mouser||
@@ -58,6 +58,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+
 
 
 
