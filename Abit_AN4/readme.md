@@ -19,16 +19,16 @@ JP12 2-3 = 5V
 
 |Footprint|Value|Size|Supplier|Order-number|
 |--------------|-----|-----|-------|-----------------|
-|R41| 220 ohm|THT 0207 1/4 w |Mouser||
-|R42| 220 ohm|THT 0207 1/4 w |Mouser||
-|MC1,2,3,5,6| 100nF 25V |RM 7.5 |Mouser||
-|MC8,9,10,11,12,13,14,15| 100nf 25V |RM 7,5 |Mouser||
-|TC12| 150µF 10V |RM 5,08 |Mouser||
-|TC15| 10µF 10V tantalum |RM 2.54 |Mouser||
-|Q4|LT1085-3.3|TO-220|Mouser||
-|for Q4|TO-220 heatsink|TO-220|Mouser||
+|R41| 220 ohm|THT 0207 1/4 w |Digikey||
+|R42| 220 ohm|THT 0207 1/4 w |Digikey||
+|MC1,2,3,5,6| 100nF 25V |RM 7.5 |Digikey||
+|MC8,9,10,11,12,13,14,15| 100nf 25V |RM 7,5 |Digikey||
+|TC12| 150µF 10V |RM 5,08 |Digikey||
+|TC15| 10µF 10V tantalum |RM 2.54 |Digikey||
+|Q4|LT1085-3.3|TO-220|Digikey||
+|for Q4|TO-220 heatsink|TO-220|Digikey||
 |JP9|short 1-2|10mm  wire d = 0.5 |various||
-|JP12|1x3 pinheader|RM 2.54|Mouser||
+|JP12|1x3 pinheader|RM 2.54|Digikey||
 |JP40|short 2-3|10mm  wire d = 0.5 |various||
 
 
@@ -52,3 +52,4 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+
