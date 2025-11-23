@@ -24,17 +24,17 @@ And you can peel off a white sticker near "VL/I-486SVGO". -> You got  "VL/I-486S
 
 |Footprint|Value|Size|Supplier|Order-number|
 |--------------|-----|-----|-------|-----------------|
-|C35| 330µF 10 or 16V |RM 3.5 |Mouser||
-|C51| 10µF 10V tantalum |RM 2.54 |Mouser||
-|C52| 1µF 10V tantalum |RM 2.54 |Mouser||
-|C53| 10µF 10V tantalum |RM 2.54 |Mouser||
-|C54| 1µF 10V tantalum |RM 2.54 |Mouser||
-|U19|NDB604BL or IRF530|TO-220|Mouser||
-|U20|LT1085-ADJ|TO-220|Mouser||
-|U21|7407|SOIC-14|Mouser||
+|C35| 330µF 10 or 16V |RM 3.5 |Digikey||
+|C51| 10µF 10V tantalum |RM 2.54 |Digikey||
+|C52| 1µF 10V tantalum |RM 2.54 |Digikey||
+|C53| 10µF 10V tantalum |RM 2.54 |Digikey||
+|C54| 1µF 10V tantalum |RM 2.54 |Digikey||
+|U19|NDB604BL or IRF530|TO-220|Digikey||
+|U20|LT1085-ADJ|TO-220|Digikey||
+|U21|7407|SOIC-14|Digikey||
 |for U20 and 19|bolt and nuts|M3 |various||
 |JP33|10mm  wire |d = 0.5 |various||
-|JP34|1x3 pinheader|RM 2.54|Mouser||
+|JP34|1x3 pinheader|RM 2.54|Digikey||
 
 
 # Notes
@@ -58,6 +58,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+
 
 
 
