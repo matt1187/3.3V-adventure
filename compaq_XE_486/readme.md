@@ -19,20 +19,20 @@ no jumper, auto-detection
 
 |Footprint|Value|Size|Supplier|Order-number|
 |--------------|-----|-----|-------|-----------------|
-|C337| 470 pF|0805|Mouser||
-|C347| 100 nF |0805|Mouser||
-|C569| 100 µF|EIA-7343|Mouser||
-|C573| 100 µF|EIA-7343|Mouser||
-|CR522| TL431 |SOT-89-3|Mouser||
-|R278| 200 |0805|Mouser||
-|R279| 10 kohm|0805|Mouser||
-|R281| 26.1 kohm|0805|Mouser||
-|R282| 4.7 kohm|0805|Mouser||
-|R283| 4.7 kohm|0805|Mouser||
-|R288| 10 ohm|0805|Mouser||
-|Q504|2SK1308 or IRF530|TO-220|Mouser||
-|Q505|MMBT3904 or BC817|SOT-23|Mouser||
-|for Q504|TO-220 heatsink|TO-220|Mouser||
+|C337| 470 pF|0805|Digikey||
+|C347| 100 nF |0805|Digikey||
+|C569| 100 µF|EIA-7343|Digikey||
+|C573| 100 µF|EIA-7343|Digikey||
+|CR522| TL431 |SOT-89-3|Digikey||
+|R278| 200 |0805|Digikey||
+|R279| 10 kohm|0805|Digikey||
+|R281| 26.1 kohm|0805|Digikey||
+|R282| 4.7 kohm|0805|Digikey||
+|R283| 4.7 kohm|0805|Digikey||
+|R288| 10 ohm|0805|Digikey||
+|Q504|2SK1308 or IRF530|TO-220|Digikey||
+|Q505|MMBT3904 or BC817|SOT-23|Digikey||
+|for Q504|TO-220 heatsink|TO-220|Digikey||
 
 
 
@@ -50,3 +50,4 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+
