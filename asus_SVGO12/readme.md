@@ -39,8 +39,8 @@ Jumper Setting for AMD 5x86 CPU, works also for PODP5V
 
 
 # Note
-bill of material is for VL/I 486SVGO Rev 1.5
-some Rev has other footprint as like DIP-14 for U21
+bill of material is for VL/I 486SVGO Rev 1.2
+
 
 
 
@@ -58,6 +58,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+
 
 
 
