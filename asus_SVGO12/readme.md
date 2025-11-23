@@ -4,14 +4,15 @@
 
 
 # Jumper setting
-autodetection of CPU voltage  (5V or 3.3V) (JP22 4-5 must be set,otherwise 5V output)
-There is no possibly of forcing to 3.3V -> don't place Cyrix 486DX2 3.3V CPU (Cyrix 5x86 has voltdet-pin and works on this board)
+autodetection of CPU voltage  (5V or 3.3V) JP22 4-5 must be set,otherwise 5V output.
+There is no possibly of forcing to 3.3V with Jumper -> don't place Cyrix/ST/TI 486DX2 3.3V CPU (Cyrix 5x86 has voltdet-pin and works on this board)
 
 <img width="1154" height="778" alt="image" src="https://github.com/user-attachments/assets/10f745ad-c925-4a98-bf9d-cf85d9336517" />
 Jumper Setting for AMD 5x86 CPU, works also for PODP5V 
--- green jumper: writeback cache enable.
--- blue jumper: 4x Multi (remove for 3x Multi or PODP5V CPU)
--- red jumper: 3.3V autodectetion enable (otherwise 5V for 3.3V CPU )
+
+- green jumper: writeback cache enable.
+- blue jumper: 4x Multi (remove for 3x Multi or PODP5V CPU)
+- red jumper: 3.3V autodectetion enable (Important! otherwise 5V Output for 3.3V CPU )
 
 
 # part should be removed
@@ -58,6 +59,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+
 
 
 
