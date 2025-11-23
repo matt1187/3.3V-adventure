@@ -20,12 +20,12 @@ JP24 3-5 , 4-6 = 3,3V
 
 |Footprint|Value|Size|Supplier|Order-number|
 |--------------|-----|-----|-------|-----------------|
-|BC32| 47 µF 10V | EIA-6032 |Mouser||
-|BC33| 47 µF 10V | EIA-6032 |Mouser||
-|TC25| 10µF 10V tantalum |RM 2.54 |Mouser||
-|U31|LT1085-ADJ|TO-220|Mouser||
-|for U31|TO-220 heatsink|TO-220|Mouser||
-|JP24|2x3 pinheader|RM 2.54|Mouser||
+|BC32| 47 µF 10V | EIA-6032 |Digikey||
+|BC33| 47 µF 10V | EIA-6032 |Digikey||
+|TC25| 10µF 10V tantalum |RM 2.54 |Digikey||
+|U31|LT1085-ADJ|TO-220|Digikey||
+|for U31|TO-220 heatsink|TO-220|Digikey||
+|JP24|2x3 pinheader|RM 2.54|Digikey||
 
 
 
@@ -44,3 +44,4 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+
